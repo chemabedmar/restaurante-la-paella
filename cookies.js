@@ -3,15 +3,14 @@
 //  Conforme al RGPD: la analítica SOLO se carga si el usuario acepta.
 // ============================================================
 
-// 🔧 CONFIGURA AQUÍ tu ID de medición de Google Analytics 4
-//    (formato G-XXXXXXXXXX, lo obtienes en analytics.google.com)
+// 🔧 ID de medición de Google Analytics 4
 const GA_MEASUREMENT_ID = 'G-TLWJNW33TY';
 
 (function () {
   const KEY = 'lapaella_cookie_consent'; // 'accepted' | 'rejected'
 
   function loadAnalytics() {
-    if (!GA_MEASUREMENT_ID || GA_MEASUREMENT_ID === 'G-TLWJNW33TY') return;
+    if (!GA_MEASUREMENT_ID || GA_MEASUREMENT_ID === 'G-XXXXXXXXXX') return;
     if (window.__gaLoaded) return;
     window.__gaLoaded = true;
 

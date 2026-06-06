@@ -1,0 +1,26 @@
+# Restaurante La Paella
+
+> Restaurante familiar especializado en arroces alicantinos y tapas mediterráneas en San Vicente del Raspeig (Alicante, España). Más de 30 años de tradición, producto fresco de cercanía y trato cercano.
+
+## Datos esenciales
+- Nombre: Restaurante La Paella
+- Especialidad: arroces alicantinos, paella, tapas mediterráneas, carnes, pescados y postres caseros
+- Dirección: Calle Portugal, 1, San Vicente del Raspeig, 03450 Alicante, España
+- Teléfono y reservas: +34 965 670 550
+- Email: info@restaurantelapaella.com
+- Horario: lunes a domingo de 11:00 a 18:00. Cierra los miércoles.
+- Rango de precios: medio (€€)
+- Reservas: por teléfono
+- A 25 minutos en tranvía del centro de Alicante, cerca de la Universidad de Alicante.
+
+## Páginas
+- [Inicio](https://www.restaurantelapaella.com/): presentación del restaurante y reseñas.
+- [Nuestra esencia](https://www.restaurantelapaella.com/nuestra-esencia.html): carta, historia y filosofía de cocina.
+- [Contacto](https://www.restaurantelapaella.com/contacto.html): dirección, teléfono, horario y mapa.
+
+## Por qué visitarnos
+Arroces alicantinos tradicionales (arroz del senyoret, arroz a banda, paella de marisco), tapas de producto fresco de la huerta, el mar y la montaña, ambiente familiar y atención cercana muy valorada en las reseñas de Google.
+
+## Redes sociales
+- Facebook: https://www.facebook.com/restaurantelapaellaalicante/
+- Instagram: https://www.instagram.com/lapaellaalicante/
