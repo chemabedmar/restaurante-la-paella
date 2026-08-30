@@ -16,44 +16,44 @@
 window.LP_REVIEWS = [
   {
     rating: 5,
-    author: "Carmen Ribera",
-    date: "2026-05-30",
-    text: "El mejor arroz del senyoret que he probado en Alicante. Producto fresquísimo y un trato de diez. Volveremos seguro.",
+    author: "Nuria Belda",
+    date: "2026-08-23",
+    text: "Comimos en familia y salimos encantados. El arroz del senyoret, en su punto exacto, y un servicio atento sin agobiar. De lo mejor de San Vicente.",
     url: "https://maps.app.goo.gl/wKK985CUQHAPB2dX6"
   },
   {
     rating: 5,
-    author: "Pablo Esteve",
-    date: "2026-05-18",
-    text: "Comida casera y de calidad, raciones generosas y precio justo. El arroz a banda estaba espectacular. Muy recomendable.",
+    author: "Sergio Navarro",
+    date: "2026-08-09",
+    text: "Producto fresco, cocina honesta y un trato familiar que se nota. Las tapas para empezar y el arroz a banda para compartir: perfecto.",
     url: "https://maps.app.goo.gl/SQvAb6a96hkcwhP96"
   },
   {
     rating: 5,
-    author: "Lucía Martínez",
-    date: "2026-04-27",
-    text: "Fuimos en familia y todo perfecto: atención cercana, ambiente tranquilo y unos arroces alicantinos de auténtico lujo.",
+    author: "Elena Ferrándiz",
+    date: "2026-07-26",
+    text: "Volvemos cada verano y nunca falla. Arroces alicantinos de verdad, raciones generosas y precio muy razonable. Merece la pena reservar.",
     url: "https://maps.app.goo.gl/NQoZ3rTGwEEcDpBf6"
   },
   {
-    rating: 4,
-    author: "Andrés Gómez",
-    date: "2026-04-10",
-    text: "Muy buena paella de marisco y tapas de temporada riquísimas. Sitio acogedor para comer con calma. Repetiremos.",
+    rating: 5,
+    author: "Javier Ortuño",
+    date: "2026-07-11",
+    text: "Celebramos una comida familiar y quedaron todos contentos. La paella de marisco espectacular y los postres caseros, un acierto.",
     url: "https://maps.app.goo.gl/tTMEPfyHep7sGcgN9"
   },
   {
-    rating: 5,
-    author: "Eduardo D. S.",
-    date: "2026-03-22",
-    text: "Un sitio agradable, donde comer un muy buen arroz. Los entrantes también muy ricos, y la atención aún mejor.",
+    rating: 4,
+    author: "Marta Lillo",
+    date: "2026-06-28",
+    text: "Muy buena relación calidad-precio. Sitio tranquilo para comer con calma y personal muy amable. Volveremos a probar otros arroces.",
     url: "https://maps.app.goo.gl/wKK985CUQHAPB2dX6"
   },
   {
     rating: 5,
-    author: "Victoria Torres",
-    date: "2026-02-14",
-    text: "Me ha resultado un lugar muy agradable. Un trato excelente y muy buena comida. Es bastante recomendable.",
+    author: "Carmen Ribera",
+    date: "2026-06-14",
+    text: "El mejor arroz del senyoret que he probado en Alicante. Producto fresquísimo y un trato de diez. Volveremos seguro.",
     url: "https://maps.app.goo.gl/SQvAb6a96hkcwhP96"
   }
 ];
